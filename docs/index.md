@@ -1,0 +1,10 @@
+# Welcome to MkDocs
+
+Salve galerafsa
+
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
